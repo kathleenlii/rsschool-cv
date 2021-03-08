@@ -7,6 +7,7 @@
 * https://www.codewars.com/users/kathleenlii
 
 ### About me
+Courteous and enthusiastic, I am interested in IT and everything in its orbit. Driven to continually learn and improve my  skills and knowledge.
 
 ### Sills
 * Javascript
