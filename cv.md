@@ -40,6 +40,6 @@ I'm currently studying to be a Frontend Developer. I believe, that my ability to
 Yanka Kupala State University of Grodno 2015 - 2019
 
 ### Languages:
-English - Intermediate
-Russian - Native
+*English - Intermediate
+*Russian - Native
 
