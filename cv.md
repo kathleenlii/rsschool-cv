@@ -39,5 +39,5 @@ I'm currently studying to be a Frontend Developer. I believe, that my ability to
 ### Education:
 Yanka Kupala State University of Grodno 2015 - 2019
 
-### English level:
-B1 (Intermediate)
+### Languages:
+English - Intermediate
