@@ -41,3 +41,5 @@ Yanka Kupala State University of Grodno 2015 - 2019
 
 ### Languages:
 English - Intermediate
+Russian - Native
+
