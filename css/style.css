@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Shippori Mincho', serif;
+}
+
+body {
+    background-color: seashell;
+}
+
+a {
+    color: white;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    height: 100%;
+    padding-top: 1rem;
+    background-color: #BFBAB6;
+    color: white;
+}
+
+.sidebar__photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar__photo img {
+    width: 40%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60%;
+    height: 100%;
+}
+
+footer {
+    width: 100%;
+    height: 3rem;
+}
+
+aside footer {
+    border-top: 1px solid white;
+} 
+
+.social {
+    height: 100%;
+    display: flex;
+    list-style: none;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.social__item {
+    font-size: 20px;
+}
+
+.social__item img {
+    width: 1.3rem;
+    margin-top: 6px;
+}
+
+main footer {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid black;
+}
+
+main footer img {
+    width: 6rem;
+}
+
+.about-section h2 {
+    text-align: center;
+}
+
+main section {
+    padding: 0 10px;
+}
+
+.code pre {
+    font-size: 0.7rem;
+    background: rgb(204, 203, 203);
+}
